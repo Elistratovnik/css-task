@@ -1,0 +1,17 @@
+.lead__register {
+  flex-grow: 1;
+  padding: 75px;
+  background-color: #fdfdfd;
+}
+
+@media (max-width:768px) {
+  .lead__register {
+    padding: 78px 32px;
+  }
+}
+
+@media (max-width:425px) {
+  .lead__register {
+    padding: 24px 16px;
+  }
+}

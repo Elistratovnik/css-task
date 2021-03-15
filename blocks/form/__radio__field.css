@@ -1,0 +1,8 @@
+.form__radio-field {
+  margin-right: 38px;
+  margin-bottom: 20px;
+}
+
+.form__radio-field:last-child {
+  margin-right: 0;
+}

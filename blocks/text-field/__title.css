@@ -1,0 +1,9 @@
+.text-field__title {
+  font-size: 14px;
+  text-transform: capitalize;
+  position: absolute;
+  top: 6px;
+  left: 9px;
+  color: #7B8A92;
+  animation: move 1s;
+}

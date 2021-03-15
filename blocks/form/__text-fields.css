@@ -1,0 +1,11 @@
+.form__text-fields {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 61px;
+}
+
+@media (max-width:425px) {
+  .form__text-fields {
+    flex-direction: column;
+  }
+}

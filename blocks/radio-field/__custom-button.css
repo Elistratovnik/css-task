@@ -1,0 +1,14 @@
+.radio-field__custom-button {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  border: 2px solid #EEEEEE;
+}
+
+.radio-field__button:checked~.radio-field__custom-button {
+  border: 4px solid #3698FB;
+}

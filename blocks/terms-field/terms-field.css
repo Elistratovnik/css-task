@@ -1,0 +1,8 @@
+@import './__checkbox.css';
+@import './__label.css';
+@import './__link.css';
+
+.terms-field {
+  display: flex;
+  align-items: center;
+}

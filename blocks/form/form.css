@@ -1,0 +1,12 @@
+@import './__button.css';
+@import './__radio-fields.css';
+@import './__subtitle.css';
+@import './__title.css';
+@import './__terms-field.css';
+@import './__text-fields.css';
+@import './__tip.css';
+@import './__radio__field.css';
+
+.form {
+  padding: 48px 0 32px 0;
+}

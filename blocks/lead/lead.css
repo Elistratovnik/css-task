@@ -1,0 +1,13 @@
+@import './__cover.css';
+@import './__logo.css';
+@import './__register.css';
+
+.lead {
+  display: flex;
+}
+
+@media (max-width:1024px) {
+  .lead {
+    display: block;
+  }
+}

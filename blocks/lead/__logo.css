@@ -1,0 +1,11 @@
+.lead__logo {
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  width: 140px;
+  height: 36px;
+  background-image: url('../../img/logo.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

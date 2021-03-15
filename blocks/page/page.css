@@ -1,0 +1,20 @@
+.page {
+  background-color: #EFF6FF;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 100px 80px;
+  font-family: 'barlow', 'Arial', sans-serif;
+  color: #2A4A5C;
+}
+
+@media (max-width:768px) {
+  .page {
+    padding: 32px 24px;
+  }
+}
+
+@media (max-width:425px) {
+  .page {
+    padding: 24px 16px;
+  }
+}

@@ -1,0 +1,7 @@
+.header__button_logo_li {
+  background-color: #0076B6;
+}
+
+.header__button_logo_li::after {
+  background-image: url('../../img/linkedin.svg');
+}

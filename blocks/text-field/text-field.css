@@ -1,0 +1,14 @@
+@import './__title.css';
+@import './__input.css';
+
+.text-field {
+  position: relative;
+  width: calc(100%/2 - 18px);
+}
+
+@media (max-width:425px) {
+  .text-field  {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+}

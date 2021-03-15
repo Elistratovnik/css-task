@@ -1,0 +1,6 @@
+.radio-field__button {
+  position: absolute;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}

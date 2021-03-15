@@ -1,0 +1,8 @@
+@import './__line.css';
+@import './__text.css';
+
+.separator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

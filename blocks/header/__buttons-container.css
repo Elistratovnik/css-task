@@ -1,0 +1,12 @@
+.header__buttons-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width:768px) {
+  .header__buttons-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

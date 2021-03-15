@@ -1,0 +1,37 @@
+.button {
+  padding: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  border: 0;
+  min-height: 42px;
+  color: white;
+  width: calc(100%/2 - 18px);
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:active {
+  opacity: 0.6;
+}
+
+
+@media (max-width:768px) {
+  .button {
+    width: 60%;
+    min-width: 200px;
+  }
+}
+
+
+@media (max-width:425px) {
+  .button {
+    width: 100%;
+    min-width: auto;
+  }
+}

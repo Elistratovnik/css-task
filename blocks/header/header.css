@@ -1,0 +1,8 @@
+@import './__buttons-container.css';
+@import './__subtitle.css';
+@import './__title.css';
+@import './__button.css';
+
+.header {
+  padding: 35px 0 53px 0;
+}

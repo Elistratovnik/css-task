@@ -1,0 +1,11 @@
+.form__button {
+  background-color: #3698FB;
+  font-weight: bold;
+}
+
+@media (max-width:1024px) {
+  .form__button {
+    display: block;
+    margin: 0 auto;
+  }
+}
